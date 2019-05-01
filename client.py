@@ -1,4 +1,8 @@
-
+'''
+Authors: 
+    Janhangeer Abdur Rahmaan
+    Raja Ajmal
+'''
 import requests
 from bs4 import BeautifulSoup
 import os
